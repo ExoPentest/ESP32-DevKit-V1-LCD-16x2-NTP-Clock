@@ -20,4 +20,6 @@ The **ESP32-DevKit-V1-LCD-16x2-NTP-Clock** is an NTP-based synchronization proje
 **i**) ARDUINO IDE WAS USED 
 
 -------------------------------------------------------#END----------------------------------------------------------
+<img width="705" height="725" alt="Screenshot_২০২৬১০২৪_২০২৫১৮-1" src="https://github.com/user-attachments/assets/092beeb5-1a12-4322-a429-de2f69fe8f54" />
+
 

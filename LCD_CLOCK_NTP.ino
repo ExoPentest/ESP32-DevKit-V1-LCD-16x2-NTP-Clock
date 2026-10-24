@@ -9,7 +9,7 @@ LiquidCrystal_I2C lcd(0x27,16,2); // LCD Followings
 ;const char ssid[] = "YOUR_WIFI_NAME"; // SSID Name & PUT YOUR OWN SSID 
 ;const char pass[] = "YOUR_WIFI_PASSWORD"; // PASSWORD & PUT YOUR OWN SSID PASS
 // GPIO Settings
-int Pin_Poi = 2; // GPIO 2
+int Pin_Poi = 2; // GPIO 2 & THIS HAS NOT BEEN USED THIS IS ESP32 BUILT-IN LIGHT. Furhter Commits may use this.
 // Country Time
 const int GMT_CURRENT = 6 * 3600 ; // Customize this according to your country
 const int DAYLIGHT_OFFSET = 0; // Same as above

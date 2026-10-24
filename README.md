@@ -17,7 +17,7 @@ The **ESP32-DevKit-V1-LCD-16x2-NTP-Clock** is an NTP-based synchronization proje
 **ii)** For ESP32 DevKit V1, GPIO 22 OR D22 = SCL
 
 ***IDE***
-**i**) ARDUINO IDE WAS USED 
+**i**) ARDUINO IDE WAS USED .
 
 -------------------------------------------------------#END----------------------------------------------------------
 <img width="781" height="775" alt="Screenshot_২০২৬১০২৪_২০২৯২৮-1" src="https://github.com/user-attachments/assets/3cfb055f-0f9a-4a52-a0f8-0e77b79838ed" />
